@@ -1,0 +1,8 @@
+Flask==2.3.2
+tensorflow
+numpy
+Pillow
+opencv-python
+python-dotenv
+google-generativeai
+protobuf
